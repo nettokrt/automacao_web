@@ -2,9 +2,9 @@
 
 ChromeDriver 106.0.5249.61
 
-gem 'cucumber'
-gem 'capybara'
-gem 'rspec'
-gem 'rake'
-gem 'selenium-webdriver'
-gem 'chromedriver-helper'
+gem 'cucumber' \n
+gem 'capybara' \n
+gem 'rspec' \n
+gem 'rake' \n
+gem 'selenium-webdriver' \n
+gem 'chromedriver-helper' \n
