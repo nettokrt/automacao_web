@@ -1,13 +1,13 @@
-The basics for an Web automation project with Ruby. 
-
--Frameworks used until now-
-gem 'cucumber'
-gem 'capybara'
-gem 'rspec'
-gem 'rake'
-gem 'selenium-webdriver'
-gem 'chromedriver-helper'
-gem 'site_prism'
-gem 'pry'
-gem 'faker'
-gem "calabash-cucumber"
+<h1> The basics for an Web automation project with Ruby. <h1/> 
+		Be happy!
+<h2> -Frameworks used until now- <h2/>
+  gem 'cucumber' <br>
+  gem 'capybara' <br>
+  gem 'rspec' <br>
+  gem 'rake' <br> 
+  gem 'selenium-webdriver' <br>
+  gem 'chromedriver-helper' <br> 
+  gem 'site_prism' <br> 
+  gem 'pry' <br> 
+  gem 'faker' <br> 
+  gem "calabash-cucumber"
