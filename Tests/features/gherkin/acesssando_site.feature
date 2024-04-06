@@ -1,6 +1,6 @@
 #language: pt
 
-@acessando_url @#marcos_netto
+@acessando_url @fail @#marcos_netto
 Funcionalidade: Acessar a primeira Url
 
 eu como usuario

@@ -1,0 +1,29 @@
+#Usuário válido
+valid_user: 'nettoxd'
+valid_password: '0000'
+
+#Usuário inválido
+invalid_user: 'nettoxxdd'
+invalid_password: 'dsad'
+
+#Alertas
+user_not_found: "Este usuário não foi encontrado!"
+
+#Clientes
+cliente: "X"
+
+#Genero
+paciente_teste: "M"
+
+#Datas
+data_de: "31/10/2022"
+data_ate: "26/12/2022"
+
+#Menus e Submenus
+menu: "Geral"
+submenu: "Saiba Mais"
+
+
+#Tipo de url
+
+x: "x"
