@@ -4,5 +4,5 @@ Quando('acesso a url') do
 end
   
 Entao('eu verifico se estou na pagina correta') do
-   expect(page). to have_current_path('https://google.com.br/')_
+   expect(page). to have_current_path('https://google.com.br/')
 end
