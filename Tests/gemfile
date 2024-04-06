@@ -10,4 +10,3 @@ gem 'site_prism'
 gem 'pry'
 gem 'faker'
 gem "calabash-cucumber"
-gem 'watir', '~> 7.3'
